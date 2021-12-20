@@ -1,0 +1,33 @@
+ion-icon {
+  --ionicon-stroke-width: 48px;
+}
+.navbar-brand h3 {
+  font-size: 32px;
+  background: -moz-linear-gradient(top, #e72c83 0%, #7c04a0 100%);
+  background: -webkit-linear-gradient(top, #e72c83 0%, #500368 100%);
+  background: linear-gradient(to bottom, #e72c83 0%, #6d4979 100%);
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.icon-position {
+  position: relative;
+  top: 1px;
+  right: 2px;
+}
+.logo {
+  position: relative;
+  top: 12px;
+  margin-left: -9px;
+  margin-right: -2px;
+}
+.check-gender {
+  display: flex;
+  justify-content: space-between;
+}
+.check-submit {
+  display: flex;
+  justify-content: space-around;
+}
+

@@ -1,0 +1,16 @@
+.function_update ion-icon {
+  font-size: 30px;
+  color: rgb(32, 85, 1);
+}
+.function_delete ion-icon {
+  font-size: 30px;
+  color: rgb(161, 4, 4);
+}
+.counting {
+  background-image: url("../image/adminpage.png");
+  background-color: #cccccc;
+  height: 800px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: auto;
+}

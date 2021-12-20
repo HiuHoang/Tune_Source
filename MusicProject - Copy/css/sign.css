@@ -1,0 +1,8 @@
+h2 {
+  background: linear-gradient(to bottom, #e72c83 0%, #6d4979 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.cards .bg-dark .text-white{
+  border-radius: 1rem;
+}
